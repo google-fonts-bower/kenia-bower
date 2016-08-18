@@ -1,0 +1,17 @@
+{
+    "name": "kenia-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Julia Petretta"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/kenia-bower.git"
+    },
+    "description": "Kenia font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
